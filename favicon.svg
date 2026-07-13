@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="12" fill="#0A0A0F"/><text x="32" y="43" text-anchor="middle" font-family="Arial Black,sans-serif" font-weight="900" font-size="16" fill="#E53E3E">CYBER</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A0A0F"/>
+      <stop offset="100%" stop-color="#18181F"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#g)"/>
+  <!-- Shield shape -->
+  <path d="M32 8 L52 16 L52 34 C52 46 32 58 32 58 C32 58 12 46 12 34 L12 16 Z"
+        fill="none" stroke="#E53E3E" stroke-width="2" opacity="0.8"/>
+  <path d="M32 12 L48 18.5 L48 34 C48 43 32 53 32 53 C32 53 16 43 16 34 L16 18.5 Z"
+        fill="#E53E3E" opacity="0.12"/>
+  <!-- Lock body -->
+  <rect x="25" y="32" width="14" height="11" rx="2" fill="#E53E3E" opacity="0.9"/>
+  <!-- Lock shackle -->
+  <path d="M27 32 L27 27 C27 23.5 37 23.5 37 27 L37 32" fill="none" stroke="#E53E3E" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Keyhole -->
+  <circle cx="32" cy="37" r="2" fill="#0A0A0F"/>
+</svg>
