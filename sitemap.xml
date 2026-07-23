@@ -1,43 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://cybercourse.in/</loc><priority>1.0</priority></url>
-  <url><loc>https://cybercourse.in/programs</loc><priority>0.9</priority></url>
-  <url><loc>https://cybercourse.in/compare.html</loc><priority>0.9</priority></url>
-  <url><loc>https://cybercourse.in/blog</loc><priority>0.7</priority></url>
-  <url><loc>https://cybercourse.in/apply.html</loc><priority>0.8</priority></url>
-  <url><loc>https://cybercourse.in/blog/cybersecurity-courses-india-2026</loc><priority>0.7</priority></url>
-  <url><loc>https://cybercourse.in/blog/iim-indore-ai-cybersecurity-review</loc><priority>0.7</priority></url>
-  <url><loc>https://cybercourse.in/blog/iit-guwahati-ethical-hacking-review</loc><priority>0.7</priority></url>
-  <url><loc>https://cybercourse.in/privacy.html</loc><priority>0.3</priority></url>
-  <url><loc>https://cybercourse.in/disclaimer.html</loc><priority>0.3</priority></url>
   <url>
-    <loc>https://cybercourse.in/blog/ciso-career-india-2026-how-to-become</loc>
-    <lastmod>2026-07-20</lastmod>
+    <loc>https://cybercourse.in/</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://cybercourse.in/apply</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://cybercourse.in/compare</loc>
+    <lastmod>2026-07-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://cybercourse.in/programs/</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://cybercourse.in/blog/ceh-vs-oscp-india-2026-which-is-better</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cybercourse.in/blog/ciso-career-india-2026-how-to-become</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cybercourse.in/blog/cloud-security-certifications-india-2026</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cybercourse.in/blog/cybersecurity-courses-india-2026</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://cybercourse.in/blog/cybersecurity-salary-india-2026-role-by-role-guide</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-23</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://cybercourse.in/blog/dpdp-act-india-cybersecurity-compliance-guide</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-23</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://cybercourse.in/blog/ethical-hacking-career-india-2026</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-23</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cybercourse.in/blog/iim-indore-ai-cybersecurity-review</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cybercourse.in/blog/iit-guwahati-ethical-hacking-review</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cybercourse.in/blog/</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://cybercourse.in/blog/network-security-courses-india-2026-certifications-career</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-23</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
 </urlset>
